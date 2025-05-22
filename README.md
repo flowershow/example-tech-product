@@ -1,10 +1,13 @@
-# Never Lose a Page Again.
-
-Say goodbye to those embarrassing “Page Not Found” errors. With **404Shield**, every broken link becomes an opportunity — for memes, magic, or mystery.
-
-[Get Started](https://404shield.com/docs/quick-start)
-
-[Star on GitHub](https://github.com/404shield/404shield)
+---
+title: Never Lose a Page Again.
+description: 'Say goodbye to those embarrassing “Page Not Found” errors. With 404Shield, every broken link becomes an opportunity — for memes, magic, or mystery.'
+showHero: true
+cta:
+  - href: https://404shield.com/docs/quick-start
+    label: Get Started
+  - href: https://github.com/404shield/404shield
+    label: Star on GitHub
+---
 
 ## Why 404Shield?
 
