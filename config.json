@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "logo": "logo.png",
+    "links": [
+      {
+        "href": "/docs",
+        "name": "Docs"
+      },
+      {
+        "href": "/blog",
+        "name": "Blog"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub",
+        "href": "#"
+      },
+      {
+        "label": "x",
+        "name": "X",
+        "href": "#"
+      },
+      {
+        "label": "instagram",
+        "name": "Instagram",
+        "href": "#"
+      }
+    ]
+  }
+}
