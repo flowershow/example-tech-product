@@ -2,6 +2,7 @@
 title: Never Lose a Page Again.
 description: 'Say goodbye to those embarrassing “Page Not Found” errors. With 404Shield, every broken link becomes an opportunity — for memes, magic, or mystery.'
 showHero: true
+showToc: false
 cta:
   - href: https://404shield.com/docs/quick-start
     label: Get Started
@@ -12,7 +13,6 @@ cta:
 ## Why 404Shield?
 
 ### Instant Error Eradication
-
 Our script intercepts 404 errors before they ever reach your visitors.
 
 ### Redirect to Random Meme
@@ -25,7 +25,6 @@ Guess the intended page using our AI (Actually Imaginary) engine.
 If every page exists, then none are ever missing. Think about it.
 
 ## How It Works
-
 Just install one script on your site. That’s it.  
 We’ll take care of the rest by pretending every URL is valid.
 
