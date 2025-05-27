@@ -12,19 +12,34 @@ cta:
 
 ## Why 404Shield?
 
-### Instant Error Eradication
-Our script intercepts 404 errors before they ever reach your visitors.
-
-### Redirect to Random Meme
-Because if you can’t find the page, at least make them laugh.
-
-### Smart Redirects
-Guess the intended page using our AI (Actually Imaginary) engine.
-
-### Eternal Uptime
-If every page exists, then none are ever missing. Think about it.
+<div className="grid lg:grid-cols-2 gap-4">
+  <div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-gray-200 p-10 transition-all duration-150 hover:border-orange-400">
+    <h3 className="font-semibold"><div className="i-mdi-lightning-bolt-outline text-2xl text-orange-600 mr-2"/>Instant Error Eradication</h3>
+    <p className="flex-grow">Our script intercepts 404 errors before they ever reach your visitors.</p>
+    <a href="https:://404shield.com/docs" className="font-semi-bold text-sm text-orange-600">Learn more →</a>
+  </div>
+  
+  <div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-gray-200 p-10 transition-all duration-150 hover:border-orange-400">
+    <h3 className="font-semibold"><div className="i-mdi-emoticon-lol-outline text-2xl text-orange-600 mr-2"/>Redirect to Random Meme</h3>
+    <p className="flex-grow">Because if you can’t find the page, at least make them laugh.</p>
+    <a href="https:://404shield.com/docs" className="font-semi-bold text-sm text-orange-600">Learn more →</a>
+  </div>
+  
+  <div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-gray-200 p-10 transition-all duration-150 hover:border-orange-400">
+    <h3 className="font-semibold"><div className="i-mdi-robot-outline text-2xl text-orange-600 mr-2"/>Smart Redirects</h3>
+    <p className="flex-grow">Guess the intended page using our AI (Actually Imaginary) engine.</p>
+    <a href="https:://404shield.com/docs" className="font-semi-bold text-sm text-orange-600">Learn more →</a>
+  </div>
+  
+  <div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-gray-200 p-10 transition-all duration-150 hover:border-orange-400">
+    <h3 className="font-semibold"><div className="i-mdi-emoticon-cool-outline text-2xl text-orange-600 mr-2"/>Eternal Uptime</h3>
+    <p className="flex-grow">If every page exists, then none are ever missing. Think about it.</p>
+    <a href="https:://404shield.com/docs" className="font-semi-bold text-sm text-orange-600">Learn more →</a>
+  </div>
+</div>
 
 ## How It Works
+
 Just install one script on your site. That’s it.  
 We’ll take care of the rest by pretending every URL is valid.
 
